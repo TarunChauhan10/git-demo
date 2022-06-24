@@ -1,4 +1,4 @@
-class PAttern_One
+class Pattern_One
 {
 	public static void main(String[] args)
 	{
